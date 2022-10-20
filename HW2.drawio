@@ -1,5 +1,5 @@
-<mxfile host="app.diagrams.net" modified="2022-10-20T13:44:39.078Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.124 YaBrowser/22.9.3.886 Yowser/2.5 Safari/537.36" etag="5sqa0agcTz8EOc5JLL1O" version="20.4.1" type="github">
-  <diagram id="ATsx1FcpA2c0bpBwpnz6" name="Страница 1">
+<mxfile host="app.diagrams.net" modified="2022-10-20T13:45:03.375Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.124 YaBrowser/22.9.3.886 Yowser/2.5 Safari/537.36" etag="14T3w0uZmLx4DVLrJn9G" version="20.4.1" type="github" pages="2">
+  <diagram id="ATsx1FcpA2c0bpBwpnz6" name="L1-L2">
     <mxGraphModel dx="1221" dy="676" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -116,6 +116,14 @@
             <mxPoint x="440" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="UdOPGUlKK_O2XKrDYbFl" name="L3">
+    <mxGraphModel dx="1038" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
